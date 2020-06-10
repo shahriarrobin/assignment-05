@@ -1,0 +1,40 @@
+.head3{
+	border:5px solid red;
+}
+p{
+	color:green;
+}
+.head1{
+	color:blue;
+}
+.head2{
+	color:#165759;
+}
+.font1{
+	font-size:40px;
+}
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
+.size_1{
+	font-size:60px;
+}
+a{
+	display:block;
+}
+.box1{
+	height:100px;
+	width:100px;
+	background-color:red;
+	padding:100px;
+	margin:100px;
+}
+.box2{
+	height:100px;
+	width:100px;
+	background-color:green;
+	margin:50px;
+}
